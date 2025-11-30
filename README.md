@@ -8,28 +8,28 @@
 Официальный сайт компании "Силовые Лебедки" - ведущего производителя лебедочного оборудования для спецтехники в России.
 
 ## 📁 Структура проекта
-winch-site/
-├── index.html
-├── about.html
-├── services.html
-├── portfolio.html
-├── contacts.html
-├── 404.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-├── images/
-│ ├── hero-bg.jpg
-│ ├── about-bg.jpg
-│ ├── service-production.jpg
-│ ├── service-maintenance.jpg
-│ ├── service-repair.jpg
-│ ├── portfolio-crane.jpg
-│ ├── portfolio-drilling.jpg
-│ └── portfolio-mining.jpg
-├── robots.txt
-├── sitemap.xml
+winch-site/  
+├── index.html  
+├── about.html  
+├── services.html  
+├── portfolio.html  
+├── contacts.html  
+├── 404.html  
+├── css/  
+│   └── style.css  
+├── js/  
+│   └── script.js  
+├── images/  
+│   ├── hero-bg.jpg  
+│   ├── about-bg.jpg  
+│   ├── service-production.jpg  
+│   ├── service-maintenance.jpg  
+│   ├── service-repair.jpg  
+│   ├── portfolio-crane.jpg  
+│   ├── portfolio-drilling.jpg  
+│   └── portfolio-mining.jpg  
+├── robots.txt  
+├── sitemap.xml  
 └── winch-site.zip
 
 📄 Страницы сайта
