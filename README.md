@@ -44,9 +44,3 @@ winch-site/
 - **Interactivity**: Vanilla JavaScript
 - **Icons**: Bootstrap Icons
 - **Responsive**: Mobile-first подход
-
-## 🚀 Быстрый старт
-
-### Просмотр на GitHub Pages
-Сайт доступен по адресу:  
-`https://[your-username].github.io/winch-site/`
